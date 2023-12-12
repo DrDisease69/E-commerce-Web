@@ -1,2 +1,1 @@
-# E-commerce-Web
-simple E-commerce Website
+# Website built With HTML, CSS, and JavaScript
